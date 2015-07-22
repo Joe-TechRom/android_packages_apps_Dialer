@@ -30,4 +30,10 @@
   <string name="people_lookup_provider_title">Провајдер проналажења људи</string>
   <string name="reverse_lookup_provider_title">Провајдер обрнутог проналажења</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn Кинески (CN)</string>
+  <string name="incall_vibration_category_title">Вибрација у току позива</string>
+  <string name="incall_vibrate_outgoing_title">Вибрација при успостављању везе</string>
+  <string name="vibrate_call_waiting">Вибрација при позиву на чекању</string>
+  <string name="incall_vibrate_hangup_title">Вибрација при прекиду позива</string>
+  <string name="incall_vibrate_45_title">Вибрација сваког минута</string>
+  <string name="incall_vibrate_45_summary">Вибрације сваке 45 секунде у минути током одлазних позива</string>
 </resources>

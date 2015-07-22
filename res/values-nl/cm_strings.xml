@@ -30,4 +30,10 @@
   <string name="people_lookup_provider_title">Aanbieder mensen zoeken</string>
   <string name="reverse_lookup_provider_title">Aanbieder omgekeerd zoeken</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinees (CN)</string>
+  <string name="incall_vibration_category_title">Trillen tijdens bellen</string>
+  <string name="incall_vibrate_outgoing_title">Trillen bij aannemen</string>
+  <string name="vibrate_call_waiting">Trillen bij wachten</string>
+  <string name="incall_vibrate_hangup_title">Trillen bij ophangen</string>
+  <string name="incall_vibrate_45_title">Elke minuut trillen</string>
+  <string name="incall_vibrate_45_summary">Elke 45<SUP>e</SUP> seconde van een minuut trillen bij uitgaande gesprekken</string>
 </resources>

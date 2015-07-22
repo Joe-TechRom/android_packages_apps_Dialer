@@ -18,4 +18,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="nearby_places">Platser i närheten</string>
   <string name="people">Personer</string>
+  <string name="lookup_settings_label">Telefonnummersökning</string>
+  <string name="lookup_settings_description">Sökning av okända telefonnummer</string>
+  <string name="enable_forward_lookup_title">Platssökning</string>
+  <string name="enable_people_lookup_title">Personsökning</string>
+  <string name="enable_people_lookup_summary">Visa online-resultat för personer vid sökning med knappsatsen</string>
+  <string name="enable_reverse_lookup_title">Omvänd sökning</string>
+  <string name="forward_lookup_provider_title">Platssökningstjänst</string>
+  <string name="cyngn_reverse_lookup_provider_name">Cyngn Kinesiska (CN)</string>
+  <string name="incall_vibrate_outgoing_title">Vibrera vid svar</string>
+  <string name="vibrate_call_waiting">Vibrera vid samtal väntar</string>
+  <string name="incall_vibrate_hangup_title">Vibrera vid avslutat samtal</string>
+  <string name="incall_vibrate_45_title">Vibrera varje minut</string>
 </resources>

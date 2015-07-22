@@ -30,4 +30,9 @@
   <string name="people_lookup_provider_title">人名搜尋供應商</string>
   <string name="reverse_lookup_provider_title">反向搜尋供應商</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn 中國 (CN)</string>
+  <string name="incall_vibration_category_title">來電震動</string>
+  <string name="incall_vibrate_outgoing_title">接通時震動</string>
+  <string name="incall_vibrate_hangup_title">掛斷時震動</string>
+  <string name="incall_vibrate_45_title">每分鐘震動一次</string>
+  <string name="incall_vibrate_45_summary">撥出電話後每分鐘的 45 秒時震動</string>
 </resources>

@@ -30,4 +30,10 @@
   <string name="people_lookup_provider_title">Kişi arama sağlayıcısı</string>
   <string name="reverse_lookup_provider_title">Ters arama sağlayıcısı</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn Çince (CN)</string>
+  <string name="incall_vibration_category_title">Gelen-arama titreşimi</string>
+  <string name="incall_vibrate_outgoing_title">Cevapladığımda titre</string>
+  <string name="vibrate_call_waiting">Çağrı bekletildiğinde titre</string>
+  <string name="incall_vibrate_hangup_title">Kapatıldığında titre</string>
+  <string name="incall_vibrate_45_title">Her dakika titre</string>
+  <string name="incall_vibrate_45_summary">Giden aramaların her dakikasının 45. saniyesinde titreşir</string>
 </resources>

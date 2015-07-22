@@ -18,4 +18,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="nearby_places">Kokapen hurbilak</string>
   <string name="people">Jendea</string>
+  <string name="incall_vibration_category_title">Deian zeharreko bibrazioa</string>
+  <string name="incall_vibrate_outgoing_title">Bibratu erantzutean</string>
+  <string name="vibrate_call_waiting">Bibratu deia zai dagoenean</string>
+  <string name="incall_vibrate_hangup_title">Bibratu esekitzean</string>
+  <string name="incall_vibrate_45_title">Bibratu minuturo</string>
+  <string name="incall_vibrate_45_summary">Irteera deietan minuturo bibratzen du 45. segundoan</string>
 </resources>

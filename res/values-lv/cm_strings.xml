@@ -30,4 +30,9 @@
   <string name="people_lookup_provider_title">Cilvēku uzmeklēšanas piegādātājs</string>
   <string name="reverse_lookup_provider_title">Apvērstās uzmeklēšanas piegādātājs</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn Ķīnas (CN)</string>
+  <string name="incall_vibration_category_title">Ienākošā zvana vibrācija</string>
+  <string name="incall_vibrate_outgoing_title">Vibrēt, atbildot</string>
+  <string name="incall_vibrate_hangup_title">Vibrēt, pārtraucot</string>
+  <string name="incall_vibrate_45_title">Vibrēt katru minūti</string>
+  <string name="incall_vibrate_45_summary">Zvana laikā vibrēt katras minūtes 45. sekundē</string>
 </resources>

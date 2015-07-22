@@ -30,4 +30,10 @@
   <string name="people_lookup_provider_title">लोग लुकअप प्रदाता</string>
   <string name="reverse_lookup_provider_title">रिवर्स लुकअप प्रदाता</string>
   <string name="cyngn_reverse_lookup_provider_name">सियानोजेन चीनी (सीएन)</string>
+  <string name="incall_vibration_category_title">इन-कॉल कंपन</string>
+  <string name="incall_vibrate_outgoing_title">उत्तर देने पर कंपन करें</string>
+  <string name="vibrate_call_waiting">कॉल प्रतीक्षा में होने पर कंपन करें</string>
+  <string name="incall_vibrate_hangup_title">कॉल काट देने पर कंपन करें</string>
+  <string name="incall_vibrate_45_title">हर मिनट कंपन करें</string>
+  <string name="incall_vibrate_45_summary">जावक कॉलों के दौरान हर मिनट के 45वें सेकंड पर कंपन करता है</string>
 </resources>

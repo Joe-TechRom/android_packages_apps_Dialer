@@ -30,4 +30,10 @@
   <string name="people_lookup_provider_title">Penyedia pencarian orang</string>
   <string name="reverse_lookup_provider_title">Penyedia pencarian terbalik</string>
   <string name="cyngn_reverse_lookup_provider_name">Cyngn China (CN)</string>
+  <string name="incall_vibration_category_title">Getaran dalam panggilan</string>
+  <string name="incall_vibrate_outgoing_title">Getar saat menjawab</string>
+  <string name="vibrate_call_waiting">Getar pada panggilan tunggu</string>
+  <string name="incall_vibrate_hangup_title">Getar saat tutup telepon</string>
+  <string name="incall_vibrate_45_title">Getar setiap menit</string>
+  <string name="incall_vibrate_45_summary">Getar pada detik ke-45 menandai tiap menit selama panggilan keluar</string>
 </resources>

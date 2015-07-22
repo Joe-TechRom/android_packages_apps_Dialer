@@ -18,4 +18,22 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="nearby_places">สถานใกล้เคียง</string>
   <string name="people">ผู้คน</string>
+  <string name="lookup_settings_label">ค้นหาหมายเลขโทรศัพท์</string>
+  <string name="lookup_settings_description">ค้นหาหมายเลขโทรศัพท์ที่ไม่รู้จัก</string>
+  <string name="enable_forward_lookup_title">ค้นหาการส่งต่อ</string>
+  <string name="enable_forward_lookup_summary">แสดงบริเวณใกล้เคียงสถานเมื่อค้นหาจากแอปโทรศัพท์</string>
+  <string name="enable_people_lookup_title">ค้นหาบุคคล</string>
+  <string name="enable_people_lookup_summary">แสดงผลการค้นหาออนไลน์เมื่อค้นหาในแอปโทรศัพท์</string>
+  <string name="enable_reverse_lookup_title">ค้นหาย้อนกลับ</string>
+  <string name="enable_reverse_lookup_summary">ค้นหาข้อมูลเกี่ยวกับบุคคลหรือสถานที่สำหรับหมายเลขสายเรียกเข้าที่ไม่รู้จัก</string>
+  <string name="forward_lookup_provider_title">ผู้ให้บริการการค้นหาการส่งต่อ</string>
+  <string name="people_lookup_provider_title">ผู้ให้บริการค้นหาบุคคล</string>
+  <string name="reverse_lookup_provider_title">ผู้ให้บริการค้นหาย้อนกลับ</string>
+  <string name="cyngn_reverse_lookup_provider_name">Cyngn ภาษาจีน (CN)</string>
+  <string name="incall_vibration_category_title">สั่นในขณะใช้สาย</string>
+  <string name="incall_vibrate_outgoing_title">สั่นเมื่อมีการรับสาย</string>
+  <string name="vibrate_call_waiting">สั่นขณะรอสาย</string>
+  <string name="incall_vibrate_hangup_title">สั่นเมื่อวางสาย</string>
+  <string name="incall_vibrate_45_title">สั่นทุกนาที</string>
+  <string name="incall_vibrate_45_summary">สั่นในวินาทีที่ 45 เพื่อแสดงทุกๆนาทีขณะใช้สาย</string>
 </resources>
